@@ -4,4 +4,4 @@ stages:
 print-text-job:
     stage: echoPrintText
     script:
-      - echo "This is a simple file created by A Security Guru in GitLab"
+      - echo "This is a simple file created by BytDawg Security in GitLab"
